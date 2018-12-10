@@ -2,4 +2,4 @@
 
 This project employs training CNN model from scratch.
 
-# In-progress
+In-progress
